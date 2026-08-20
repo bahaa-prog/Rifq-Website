@@ -26,7 +26,6 @@ export default function Footer({
           <div>
             <div className="footer-logo-row">
               <img src={assetPath("/img/logo_white.PNG")} alt={common.logoAlt} className="footer-logo" />
-              <img src={assetPath("/img/rafq_white_logo.PNG")} alt={dict.rafqLogoAlt} className="footer-logo footer-logo-lg" />
               <img src={assetPath("/img/HR_white_logo.PNG")} alt={dict.hrLogoAlt} className="footer-logo footer-logo-xl" />
             </div>
             <p className="footer-about">{dict.aboutBlurb}</p>

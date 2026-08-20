@@ -41,7 +41,7 @@ const en: Dictionary = {
     rafqLogoAlt: "Rafq logo",
     hrLogoAlt: "Ministry of Human Resources license",
     aboutBlurb:
-      "Dalma Humanitarian City, where genuine care meets empowerment. Enabling people with disabilities to realize their potential and live with confidence, independence and hope.",
+      "Dalma Humanitarian City — Rifq Company for Education, where genuine care meets empowerment. Enabling people with disabilities to realize their potential and live with confidence, independence and hope.",
     xLabel: "X",
     nav: {
       home: "Home",
@@ -52,8 +52,8 @@ const en: Dictionary = {
       contact: "Contact Us",
     },
     address: "Al-Jouf, Saudi Arabia",
-    email: "info@dalma.edu.sa",
-    copyright: "© 2026 Dalma Humanitarian City. All rights reserved.",
+    email: "admin@rafq.edu.sa",
+    copyright: "© 2026 Dalma Humanitarian City - Rifq Company for Education. All rights reserved.",
   },
   contact: {
     label: "We'd Love to Hear From You",
@@ -61,7 +61,7 @@ const en: Dictionary = {
     intro:
       "We're happy to answer your questions, receive service requests, and build partnerships through Dalma Humanitarian City's official contact channels.",
     emailLabel: "Email",
-    email: "info@dalma.edu.sa",
+    email: "admin@rafq.edu.sa",
     addressLabel: "Address",
     address: "Al-Jouf, Saudi Arabia",
     hoursLabel: "Working Hours",
@@ -75,7 +75,7 @@ const en: Dictionary = {
     heroBadge: "Dalma Humanitarian City",
     heroTitle: "When Compassion Becomes a Mission",
     heroDesc:
-      "Dalma Humanitarian City is a specialized humanitarian organization committed to the care, rehabilitation, and empowerment of people with disabilities through an integrated system of therapeutic, rehabilitative, and educational services delivered in line with recognized best-practice standards.\nDHC aims to enhance quality of life, promote independence, and foster meaningful community inclusion.",
+      "Dalma Humanitarian City — Rifq Company for Education — a private non-profit organization, is committed to the care, rehabilitation, and empowerment of people with disabilities through an integrated system of therapeutic, rehabilitative, and educational services delivered in line with recognized best-practice standards.\nDHC aims to enhance quality of life, promote independence, and foster meaningful community inclusion.",
     ctaServices: "Discover Our Services",
     ctaAbout: "About Us",
 
